@@ -1,0 +1,34 @@
+Site Reliability Engineer
+Murex 3.1
+Windows Server
+administration
+troubleshooting
+High-Performance Computing
+distributed architecture
+Microsoft HPC
+programming
+scripting
+Java
+Python
+JavaScript
+PowerShell/Shell
+yaml
+Cucumber
+automate repetitive tasks
+system configuration
+installation
+deployment
+Ansible
+uDeploy
+problem solving
+troubleshooting
+communication skills
+cloud technologies
+Amazon Web Services
+risk and pricing systems
+ServiceNow
+Jira
+Confluence
+Agile
+deliver
+multiple time zones and locations

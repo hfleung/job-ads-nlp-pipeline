@@ -1,0 +1,48 @@
+Site Reliability Engineer
+
+Full job description
+Req ID: 58639
+Department: Tech Institutional Digital Banking Operations Doma
+Division: Technology
+Location: London
+About the role
+
+At ANZ our purpose is to shape a world where people and communities thrive and to achieve this, we need a talented Site Reliability Engineer to join our Markets Technology team. The team delivers innovative products & solutions across fixed income, foreign exchange, money markets and commodities, as well as specialist research and risk management expertise. The business operates in all major financial hubs including London, New York, Hong Kong, Tokyo, Singapore, Sydney, and Auckland.
+
+Markets Technology is the technology partner to the Markets business and is responsible for all applications used by the business front to back. Our primary stakeholders are trading, sales, and operations.
+
+We are looking for a Site Reliability Engineer to join our team in London providing support to the London and New York offices for Murex and Sky, the ANZ in-house developed risk and pricing system.
+
+Your key responsibilities are:
+Working directly with front office traders, salespeople, quants, analysts, and business managers to troubleshoot and resolve issues and to formalise technology requirements.
+Participating in incident management and coordinating the resolution of complex issues with the global support teams.
+Designing and implementing software tools that improve the stability, scalability, availability and latency of Murex and Sky.
+Constructing effective systems to monitor the health of the platforms and proactively handle outages.
+Working in collaborative teams both locally and globally to solve problems and build innovative solutions that ensure the high availability of production systems.
+Actively participating in the cloud journey for Sky and Murex.
+Creating high quality documentation including precise transcripts of post incident reviews and problem descriptions.
+
+Role Location: ANZ London, UK
+Role Type: Permanent
+
+What will you bring?
+
+To grow and be successful in the role, you will ideally bring the following:
+
+Experience in supporting Murex 3.1
+Hands-on expertise in Windows Server administration and troubleshooting.
+Good understanding of a High-Performance Computing distributed architecture ideally on the Windows platform (Microsoft HPC).
+Strong programming and scripting fundamentals in Java, Python, JavaScript, PowerShell/Shell, yaml, Cucumber.
+A desire to write tools and applications that automate repetitive tasks.
+Experience in standardised system configuration/installation/deployment tools e.g., Ansible, uDeploy.
+Strong problem solving and troubleshooting skills.
+Excellent communication skills.
+An ability to effectively interact closely with business stakeholders, including traders and quants.
+
+Other good to have knowledge, skills, and experience:
+An understanding of cloud technologies and concepts.
+Experience of Amazon Web Services (AWS).
+An understanding of risk and pricing systems.
+Experience of using ServiceNow, Jira and Confluence.
+Agile mindset and a strong desire to deliver on the mission and goals of the business.
+Experience of working across multiple time zones and locations.
